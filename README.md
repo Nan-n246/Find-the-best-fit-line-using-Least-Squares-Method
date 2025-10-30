@@ -46,11 +46,10 @@ print(y_predicted)
 plt.scatter(X,Y)
 plt.plot(X,y_predicted,color='red')
 plt.show()
-
 ```
-## Output:
 
-![image](https://github.com/user-attachments/assets/ffdcac25-5718-4363-a501-3678d7d07429)
+## Output:
+<img width="768" height="669" alt="image" src="https://github.com/user-attachments/assets/8242f174-e09d-40b3-b8d3-da9cbd9fe727" />
 
 
 
